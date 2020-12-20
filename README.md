@@ -8,16 +8,20 @@ Tired of the overly flashy headache inducing lightshow colors just to close some
 Then this theme is for you! (probably)
 
 This is how it looks like:
+
 ![desktop](desktop.png)
+
 ![buttons](buttons.png)
 
 It also has subtle details when hovering over the buttons, like this:
+
 ![buttons](buttons-animated.gif)
 
 Or when the video grabs focus, no need for huge flashing titlebars:
+
 ![buttons](focus.gif)
 
-#Install Instructions
+# Install Instructions
 
 1. Clone this repo
 
