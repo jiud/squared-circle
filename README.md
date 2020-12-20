@@ -1,7 +1,7 @@
 # squared-circle
-Minimal but colorful theme for XFWM window manager
+Minimal but colorful theme for XFWM
 
-Tired of the same old MacOS derivative GTK themes? 
+Tired of the same old MacOS derivative buttons on GTK? 
 
 Tired of the overly flashy headache inducing lightshow colors just to close some windows?
 
