@@ -1,5 +1,4 @@
 # squared-circle
-Minimal but colorful theme for XFWM
 
 Tired of the same old MacOS derivative buttons on GTK? 
 
@@ -17,7 +16,7 @@ It also has subtle details when hovering over the buttons, like this:
 
 ![buttons](buttons-animated.gif)
 
-Or when the video grabs focus, no need for huge flashing titlebars:
+Or when the window grabs focus, no need for huge flashing titlebars:
 
 ![buttons](focus.gif)
 
